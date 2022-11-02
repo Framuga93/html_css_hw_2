@@ -1,0 +1,41 @@
+
+body {
+    height: auto;
+    width: auto;
+    border: 5px solid black;
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.round {
+    border-radius: 500px; /* Радиус скругления */
+    border: 3px solid black; /* Параметры рамки */
+    box-shadow: 0 0 10px #666; /* Параметры тени */
+   }
+
+#me{
+    position: relative;
+    left: 80%;
+    top: 220px;
+}
+
+p,ul{
+    font-size: 50px;
+}
+
+.text_m{
+    position: relative;
+    bottom: 250px;
+    padding: 0px 0px 0px 30px;
+}
+
+.ul_txt{
+    position: relative;
+    left: 100px;
+    bottom: 200px;
+}
